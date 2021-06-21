@@ -1,37 +1,34 @@
-# Why collect data?
-To understand the challenges of child povery and assess the poverty related attainment gap caused by child poverty.
+# Requirments for the data collection tools
+
+## Methods of collecting
+1. Establish a timeframe to collect short term and long term data.
+2. Mine data from existing sources of datasets.
+3. Identify new sources of data.
+4. Add support for surveys to collect data.
+5. Build a mechanism to verify the authenticity and integrity of the data.
+6. Build a mechanism to clean and standardize the data.
+7. Add multilingual support (??).
 
 
-# What data to collect?
-- Income data of population in *the subdivisions*
-- Literacy rates of *the subdivisions* categorized by age groups
-- Education levels of population in *the subdivisions*
-- Education levels of parents in *the subdivisions*
-- Locations and absolute number of schools
-- Funds provided for the schools
-- Data for teenage pregnancies and unplanned parenthoods and the resulting education attainment of the offspring
-- Welfare schemes in *the subdivisions*
-- Public transport data
-- Political and other economic factors of *the subdivisions*
-
-....more to be added
+## Storage of data
+1. The tool should be able to store data.
+2. The tool should be able to periodically update existing data and add new data.
 
 
-# Who is going to use this data (directly or indirectly)?
-- Members of city councils
-- Teachers
-- General public
+## Supported formats
+The tool should support collecting and storing texual, audio, and visual data in the following file formats:
 
+- CSV
+- JSON
+- XLSX
+- DOCX
+- PDF
+- TXT
+- SVG
+- PNG
+- JPG
+- MP4
+- MKV
+- AVI
 
-# How to collect the data?
-- Identify existing datasets or the existing sources for the required datasets
-- If there does not exist a source for any given data, explore other ways i.e., interviews, surveys, secondary data etc.
-- Develop a sampling plan to systematically obtain data.
-
-
-# How to minimize bias?
-
-
-
-# Terminology
-*The Subdivisions* - all administrative subdivisions of Scotland.
+## Terminology
