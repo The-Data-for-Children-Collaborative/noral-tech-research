@@ -1,4 +1,8 @@
-# Requirments for the data collection tools
+# Requirements for the data collection tools
+
+## Context
+This document contains requirements for the data collection tools. The data collected will be used to understand the child poverty related attainment gap.
+
 
 ## Methods of collecting
 1. Establish a timeframe to collect short term and long term data.
