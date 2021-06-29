@@ -24,6 +24,7 @@ The tool should support collecting and storing texual, audio, and visual data in
 
 - CSV
 - JSON
+- XML
 - XLSX
 - DOCX
 - PDF
