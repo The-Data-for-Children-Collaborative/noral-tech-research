@@ -9,6 +9,8 @@ A data collection tool should ideally have:
 - Forms
 - Support for offline data collection
 - Integrated analytics
+- Export functionality
+- Flexible data categories
 
 ## Data standards
 The following set of standards may be well suited for the project:
