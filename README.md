@@ -2,9 +2,13 @@
 
 Research around the tech to develop the NORAL project platform.
 
-[Data Collection Requirements](datacollection/001-data-collection-requirements.md)
+[Data collection requirements](datacollection/001-data-collection-requirements.md)
 
-[Data Collection Use Cases](datacollection/002-data-collection-usecases.md)
-
+[Data collection usecases/case studies](datacollection/002-data-collection-usecases.md)
 
 [Primary data to be collected](datacollection/003-primary-data.md)
+
+[Data categories](datacollection/004-data-categories.md)
+
+[Data collection standards and tools](datacollection/005-data-standards-and-tools.md)
+
