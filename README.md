@@ -1,14 +1,21 @@
-# noral-tech-research
+# NORAL | Tech Research
 
 Research around the tech to develop the NORAL project platform.
 
-[Data collection requirements](datacollection/001-data-collection-requirements.md)
+## Goal
+The goal this research to identify requirements, challenges, use cases, management procedures and tooling options to develop and build [the features](https://app.mural.co/t/projectnoral3525/m/projectnoral3525/1624851833872/0db78ee8fd65733d01eff2f0ac63d22d5085662b) from the stakeholder workshop.
 
-[Data collection usecases/case studies](datacollection/002-data-collection-case-studies.md)
+## Active research
+[Data Collection](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research/tree/main/datacollection)
 
-[Primary data to be collected](datacollection/003-primary-data.md)
+## Upcoming
+Data Stories
+Information Mapping
+Comparative Analysis
+Open Access
+Capacity Building
 
-[Data categories](datacollection/004-data-categories.md)
 
-[Data collection standards and tools](datacollection/005-data-standards-and-tools.md)
+## License
 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
