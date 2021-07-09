@@ -2,11 +2,14 @@
 
 Research around the tech to develop the NORAL project platform.
 
+
 ## Goal
 The goal this research to identify requirements, challenges, use cases, management procedures and tooling options to develop and build [the features](https://app.mural.co/t/projectnoral3525/m/projectnoral3525/1624851833872/0db78ee8fd65733d01eff2f0ac63d22d5085662b) from the stakeholder workshop.
 
+
 ## Active research
 [Data Collection](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research/tree/main/datacollection)
+
 
 ## Upcoming
 Data Stories
