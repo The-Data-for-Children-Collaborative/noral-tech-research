@@ -4,6 +4,7 @@
 Some examples for quantitive data in view of the proejct include but not limited to -
 - Literacy rates
 - Income levels
+- Attendance records
 - Rate of school dropouts
 
 ## Qualitative data
