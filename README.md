@@ -10,9 +10,13 @@ The goal this research to identify requirements, challenges, use cases, manageme
 
 ## Upcoming
 Data Stories
+
 Information Mapping
+
 Comparative Analysis
+
 Open Access
+
 Capacity Building
 
 
