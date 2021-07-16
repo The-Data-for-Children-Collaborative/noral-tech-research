@@ -31,3 +31,7 @@ Link: https://www.nytimes.com/interactive/2020/08/24/climate/racism-redlining-ci
 - A really good data story that showcases how historical discrimination (racism in this case), can affect the future of a neighbourhood in terms of access to resources.
 
 - We can understand how disparities in access to basic resources such as housing, has compounded socioeconomic gap over generations.
+
+
+## Some Colleges Have More Students From the Top 1 Percent Than the Bottom 60. Find Yours.
+Link: https://www.nytimes.com/interactive/2017/01/18/upshot/some-colleges-have-more-students-from-the-top-1-percent-than-the-bottom-60.html
