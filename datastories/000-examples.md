@@ -11,3 +11,23 @@ Link: https://www.who.int/data/stories/world-health-statistics-2021-a-visual-sum
 - Highlights the importance of monitoring inequalities and the urgency to produce, collect, analyse, and report timely, reliable, actionable and disaggregated data to move forward towards our goals.
 
 - Provides evidence on how conditions related to poverty reduce access to health services and evidence based information.
+
+
+## $600 Unemployment: What Happens When a Stimulus Lifeline Ends
+Link: https://www.nytimes.com/interactive/2020/07/24/business/economy/600-unemployment-benefits.html
+
+### How is this relevant to us?
+- Illustrates how depending on income and where someone lives, regular unemployment benefits replace only a portion of lost wages. In the context of this particular situation, we may need to understand if cash handouts would be an effective method to decrease the poverty induced gaps in child education.
+
+- Excellent visualizations to compare unemployment payments for each state and national average.
+
+- 
+
+
+## How Decades of Racist Housing Policy Left Neighborhoods Sweltering
+Link: https://www.nytimes.com/interactive/2020/08/24/climate/racism-redlining-cities-global-warming.html
+
+### How is this relevant to us?
+- A really good data story that showcases how historical discrimination (racism in this case), can affect the future of a neighbourhood in terms of access to resources.
+
+- We can understand how disparities in access to basic resources such as housing, has compounded socioeconomic gap over generations.
