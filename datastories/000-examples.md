@@ -35,3 +35,8 @@ Link: https://www.nytimes.com/interactive/2020/08/24/climate/racism-redlining-ci
 
 ## Some Colleges Have More Students From the Top 1 Percent Than the Bottom 60. Find Yours.
 Link: https://www.nytimes.com/interactive/2017/01/18/upshot/some-colleges-have-more-students-from-the-top-1-percent-than-the-bottom-60.html
+
+### How is this relevant to us?
+- Points out the disparities between income scales of students at elite colleges.
+- An interesting observation is some elite colleges have focused more on being affordable to low-income families than expanding access.
+- "Free tuition only helps if you can get in."
