@@ -4,7 +4,7 @@
 
 #### 1. Compelling insight
 
-It is important to determine if an insight merits its own data story. An insight should not offer limited value to the audience. If it does, it's worthy of a data story. An insight should ideally be "hard" for an audience to accept and embrace. Then the data story crafted for it will be more impactful.
+It is important to determine if an insight merits its own data story. An insight should not offer limited value to the audience. If it does, it's not worthy of a data story. An insight should ideally be "hard" for an audience to accept and embrace. Then the data story crafted for it will be more impactful.
 
 Use the below matrix to evaluate an insight.
 
