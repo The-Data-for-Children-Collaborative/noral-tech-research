@@ -10,9 +10,10 @@ The goal of this research to identify requirements, challenges, use cases, manag
 ## Active research
 [Data Collection](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research/tree/main/datacollection)
 
+*[Data Stories](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research/tree/main/datastories)*
 
 ## Upcoming
-Data Stories
+
 
 Information Mapping
 
