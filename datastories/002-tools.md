@@ -3,13 +3,11 @@
 ## Data Analysis
 
 - Metabase
-- Superset
 - BI
 - Tableau
-
 
 ## Data Stories
 
 - RAWGraphs
 - Nugit
-- 
+- Superset
