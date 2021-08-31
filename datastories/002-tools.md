@@ -5,6 +5,7 @@
 - Metabase
 - BI
 - Tableau
+- Kibana
 
 ## Data Stories
 
