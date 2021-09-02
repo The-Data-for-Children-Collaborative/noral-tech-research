@@ -3,6 +3,7 @@
 ## Data Analysis
 
 - Metabase
+- Superset
 - BI
 - Tableau
 - Kibana
@@ -11,4 +12,3 @@
 
 - RAWGraphs
 - Nugit
-- Superset
