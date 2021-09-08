@@ -17,8 +17,9 @@ The following set of standards may be well suited for the project:
 - [Frictionless Standards](https://specs.frictionlessdata.io)
 
 ## Tools
-- [Frictionless toolkit](https://frictionlessdata.io)
 - [Open Data Kit](https://getodk.org)
+- [KoboToolbox](https://www.kobotoolbox.org)
+- [Frictionless toolkit](https://frictionlessdata.io)
 - [CKAN](https://ckan.org)*
 
 
