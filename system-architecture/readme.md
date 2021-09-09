@@ -1,3 +1,5 @@
+# System Architecture
+
 Following are the major components of the System
 
 1. User facing portals
