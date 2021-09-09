@@ -24,6 +24,8 @@ Open Access
 
 Capacity Building
 
+## Architecture
+[Base system architecture](./system-architecture)
 
 ## License
 
