@@ -1,6 +1,7 @@
 # Apache Superset
 
 URL: https://superset.apache.org/
+Live instance: https://supersetv2.civicdatalab.in
 
 ## Why Superset?
 
@@ -18,31 +19,31 @@ URL: https://superset.apache.org/
 2. Log into [Superset](https://supersetv2.civicdatalab.in).
 
 3. From the Data dropdown menu on the top navigation bar, select "Upload a CSV".
-   ![1](../_assets/screenshots/superset-001.png)
+   ![1](./assets/superset-001.png)
 
 4. Upload the CSV file downloaded in step 1 and give the table a name. Select the database to which this table has to be added.
-![2](../_assets/screenshots/superset-002.png)
+![2](./assets/superset-002.png)
 
 5. Click Save on the bottom of the upload page.
-![3](../_assets/screenshots/superset-003.png)
+![3](./assets/superset-003.png)
 
 6. After the CSV is saved as a dataset, it can be found in the list of datasets.
-![4](../_assets/screenshots/superset-004.png)
+![4](./assets/superset-004.png)
 
 7. Click on the dataset name to open it.
-![5](../_assets/screenshots/superset-005.png)
+![5](./assets/superset-005.png)
 
 8. Select your desired type of chart (visualization).
 Note: Based on the type and content of the dataset, the supported chart types change. For example, if there is no time related information in a dataset, you cannot use time based charts to visualize it.
-![6](../_assets/screenshots/superset-006.png)
+![6](./assets/superset-006.png)
 
 9. You can use the information present in the dataset to run multiple sets of SQL queries.
-![7](../_assets/screenshots/superset-007.png)
-![8](../_assets/screenshots/superset-008.png)
-![9](../_assets/screenshots/superset-009.png)
+![7](./assets/superset-007.png)
+![8](./assets/superset-008.png)
+![9](./assets/superset-009.png)
 
 10. The metrics can be changed anytime from the UI by using the default metrics picker. Or you can write your own custom SQL queries.
-![10](../_assets/screenshots/superset-010.png)
+![10](./assets/superset-010.png)
 
 11. You can save these visualizations and export them as CSV, JSON files as well as in image formats.
 
