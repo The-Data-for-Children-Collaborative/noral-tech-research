@@ -8,14 +8,15 @@ The goal of this research to identify requirements, challenges, use cases, manag
 
 
 ## Active research
-[Data Collection](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research/tree/main/datacollection)
+[Data Collection](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research/tree/main/data-collection)
 
-*[Data Stories](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research/tree/main/datastories)*
+[Data Analysis](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research/tree/main/data-analysis)
+
+[Information Mapping](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research/tree/main/information-mapping)
+
+*[Data Stories](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research/tree/main/data-stories)*
 
 ## Upcoming
-
-
-Information Mapping
 
 Comparative Analysis
 
