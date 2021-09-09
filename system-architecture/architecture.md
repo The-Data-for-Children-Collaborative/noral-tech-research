@@ -9,10 +9,11 @@ Following are the major components of the System
 
 ## User Facing Portals
 ![1](./assets/portals.jpg)
+
 This is the group of all systems which caters to userflows which are enduser facing. Following are some key identified systems:
 
 - Data Catalog
-- Storis and Blogs
+- Stories and Blogs
 - Community forum
 - Information portal
 - Data management platform
@@ -21,7 +22,8 @@ This is the group of all systems which caters to userflows which are enduser fac
 
 ## Data Sourcing
 ![1](./assets/data_source.jpg)
-The System would support sourcing of data from three different processes
+
+The system would support sourcing of data from three different processes
 1. Direct bulk upload by system maintainer
 2. Data collected from primary data collection
 3. Data periodically updated via automated processes
