@@ -1,4 +1,5 @@
-# Data collection standards and tools
+# Data collection tools and standards
+
 The important features that a data standard should support:
 - Schematic
 - Semantic
@@ -19,8 +20,9 @@ The following set of standards may be well suited for the project:
 ## Tools
 - [Open Data Kit](https://getodk.org)
 - [KoboToolbox](https://www.kobotoolbox.org)
-- [Frictionless toolkit](https://frictionlessdata.io)
 - [CKAN](https://ckan.org)*
+
+*CKAN is more appropriate for collecting and storing datasets.
 
 
 ## Reading List

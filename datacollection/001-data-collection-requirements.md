@@ -35,5 +35,3 @@ The tool should support collecting and storing texual, audio, and visual data in
 - MP4
 - MKV
 - AVI
-
-## Terminology
