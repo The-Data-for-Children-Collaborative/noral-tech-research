@@ -22,7 +22,7 @@ Apace Superset is an open source data exploration and visualization platform tha
 More information on how to access our current instance of Superset and how to work with it can be found [here](./003-superset.md).
 
 ### Metabase
-Metabase is a data analysis platform to analyse and share data that also lets users to create rich visualizations and get insights from data by running SQL queries.
+Metabase is a data analysis platform to analyse and share data that also lets users to create rich visualizations and get insights from data by running SQL queries. Detailed information to how to access and use Metabase can be found [here](./004-metabase.md).
 
 ### RAWGraphs
 RAWGraphs work with demiliter-separated values (eg. CSV, TSV) and spreadsheets to visualize the data contained in them. It is a simple and lightweight alternative to Superset and Metabase.
