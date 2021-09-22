@@ -11,3 +11,17 @@ Find out the entitites from which data could be collected and map their relation
 
 ## Suggested data model
 ![Data model](./assets/data-model.png)
+
+## Data Types
+
+#### 1. Periodic data
+Periodic data includes data that is usually changed/updated over a period of time and can contain Personally Identifiable Information (PII).
+Eg: budget allocation, population, expenses etc.
+
+#### 2. Seldomly updated data
+Includes data that does not get updated frequently. May contain PII.
+Eg: highest education qualifications, reasons for dropping out of school etc.
+
+#### 3. Facts
+Facts are data that remain unchanged. No PII.
+Eg: address of a school
