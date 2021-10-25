@@ -1,31 +1,36 @@
 # NORAL | Tech Research
-
-Research around the tech to develop the NORAL project platform.
-
+> Research around the tech to develop the NORAL project platform.
 
 ## Goal
-The goal of this research to identify requirements, challenges, use cases, management procedures, and tooling options to develop and build [the features](https://app.mural.co/t/projectnoral3525/m/projectnoral3525/1624851833872/0db78ee8fd65733d01eff2f0ac63d22d5085662b) from the stakeholder workshop.
+The goal of this research to identify requirements, challenges, use cases, management procedures, and tooling options to develop and build [the features](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/tree/main/research/02-stakeholder-workshop/feature-feedback) from the stakeholder workshop.
 
+## Background
 
-## Active research
-[Data Collection](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research/tree/main/data-collection)
+You can read more about the project and other related work [here](https://github.com/The-Data-for-Children-Collaborative/noral-project).
 
-[Data Analysis](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research/tree/main/data-analysis)
+## Contributions
 
-[Information Mapping](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research/tree/main/information-mapping)
+You can refer to the [contributing guidelines](_contribute/CONTRIBUTING.md) and understand how to contribute.
 
-*[Data Stories](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research/tree/main/data-stories)*
+The active project to track all the research is available [here](https://github.com/orgs/The-Data-for-Children-Collaborative/projects/1).
 
-## Upcoming
+## Feature Research
 
-Comparative Analysis
+[Data Analysis](./data-analysis)
 
-Open Access
+[Data Collection](./data-collection)
 
-Capacity Building
+[Data Stories](./data-stories)
+
+[Information Mapping](./information-mapping)
+
+[Capacity Building](./capacity-building)
+
+[Comparative Analysis]()
 
 ## Architecture
-[Base system architecture](./system-architecture)
+
+[Base System Architecture](./system-architecture)
 
 ## License
 
