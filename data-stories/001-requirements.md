@@ -8,7 +8,7 @@ It is important to determine if an insight merits its own data story. An insight
 
 Use the below matrix to evaluate an insight.
 
-![Insight evaluation matrix](../_assets/matrix.png)
+![Insight evaluation matrix](./assets/matrix.png)
 > Credits: *BRENT DYKES | Effective Data Storytelling: How To Drive Change With Data, Narrative, and Visuals (WILEY 2020)*
 
 #### 2. Data
