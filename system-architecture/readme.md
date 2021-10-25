@@ -37,10 +37,9 @@ All datasets are stored pre and post processing to enable higher resilience agai
 
 A knowledge graph of all the base truths in the system is maintained to enable information mapping against mutiple data sources.
 
-![1](./assets/storage.jpg)
-
+![1](./assets/central-data-storage.png)
 
 ## Monitoring and Analysis
 The system would be equipped with central monitoring system to monitor workflows between all the components of the system. This system would also allow manual interventions and policy enforcement.
 
-The processesed data is also available to allow analysis of all the datasets present in the system.
+The processed data is also available to allow analysis of all the datasets present in the system.
