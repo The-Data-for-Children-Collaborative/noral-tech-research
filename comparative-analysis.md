@@ -20,4 +20,5 @@ Chart.js describes itself as "Simple yet flexible JavaScript charting for design
 
 While all the above mentioned tools can enable most of the comparative analysis in hand, we selected Apache Echarts for its ease of use and scalable setup.
 
+# Conclusion
 By creating extendable visualization plugins using Apache Echarts in conjunction with resource and page models [explained here](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research/tree/main/system-architecture), most of the userflows and visualization flows can be created with minimal development effort.  
