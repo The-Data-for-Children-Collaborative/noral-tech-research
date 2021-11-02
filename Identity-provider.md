@@ -24,4 +24,5 @@ Below is the comparision between few identified tools.
 
 reference: https://gist.github.com/yanivmn/16e5fdf75d2de28650b00a150209d734
 
+## Conclusion
 Based on the above comparision, keycloak is the tool of choice for the current system.
